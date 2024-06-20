@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 31 Dec 2023 17:08:19 at https://exploreonsite.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://exploreonsite.website/ -O1 "C:\My Web Sites\Clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:13:28	Warning: 	Retry after error -4 (Connect Error) at link https://exploreonsite.store/wallets/images/Appstation.png (from https://exploreonsite.website/wallets/index.html)
+17:13:49	Error: 	"Not Found" (404) at link https://exploreonsite.website/wallets/success95619561.html?code= (from https://exploreonsite.website/wallets/index.html)
+17:13:49	Error: 	"Not Found" (404) at link https://exploreonsite.website/popper.js (from https://exploreonsite.website/assets/js/bootstrap.5.0.0.alpha-2-min.js)
+17:13:52	Error: 	"Not Found" (404) at link https://exploreonsite.website/wallets/css/index.html (from https://exploreonsite.website/wallets/css/mystyle.css)
+17:13:52	Warning: 	Retry after error -4 (Connect Error) at link https://exploreonsite.store/wallets/images/Appstation.png (from https://exploreonsite.website/wallets/index.html)
+17:13:52	Error: 	"Not Found" (404) at link https://exploreonsite.website/wallets/true/ (from https://exploreonsite.website/wallets/js/jquery-3.6.0.js)
+17:14:13	Error: 	"Connect Error" (-4) after 2 retries at link https://exploreonsite.store/wallets/images/Appstation.png (from https://exploreonsite.website/wallets/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 54 seconds : 237 links scanned, 229 files written (3079020 bytes overall) [2096506 bytes received at 5922 bytes/sec], 1665748 bytes transferred using HTTP compression in 180 files, ratio 32%, 23.4 requests per connection
+(5 errors, 2 warnings, 0 messages)
